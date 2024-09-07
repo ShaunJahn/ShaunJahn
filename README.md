@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭 I'm currently working on: .NET engineering with a focus on fintech and payment strategies.<br><br>🤝 I'm looking to collaborate on: AI projects that are pushing innovation forward.<br><br>💡 I'm looking for help with: Becoming a better engineer in software architecture.<br><br>🌱 I'm currently learning: AI-driven models and .NET integrations with AI.<br><br>🎮 Ask me about: Gaming, hiking outdoors, and gym time.<br><br>⚡ Fun fact: I’ve logged over 25,000 hours in my favorite game dota2!<br><br><br><br><br><br><br><br>
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mrjshaun/) 
 
